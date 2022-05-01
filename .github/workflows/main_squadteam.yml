@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'squadteam'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4025A3610654C65A9BE480506CCD97F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D7C2C1FCFB664E01A41742D2DBFD64B4 }}
           package: .
